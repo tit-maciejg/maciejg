@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589128726 source:c:\users\macie\desktop\codeblocks\zadanie123\main.cpp
+	<iostream>
+	<fstream>
+
